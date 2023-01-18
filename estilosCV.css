@@ -1,0 +1,54 @@
+body{
+    font-family: 'Seymour One', sans-serif;
+}
+
+h1{
+    text-align: center;
+    background-color: aliceblue;
+    font-family: 'Seymour One', sans-serif;
+    padding: 0px 0px 0px 0px;
+    border: 0px 0px 0px 0px;
+}
+
+h2{
+    font-size: xx-large;
+    background-color: rgba(59, 57, 57, 0.142);
+    margin-bottom: 0px;
+
+}
+
+#navegador ul{
+   padding: 2px 7px 2px 7px;
+   color: black;
+   background-color: #eeeeee;
+   border: 1px solid #ccc;
+   text-decoration: none;
+   list-style-type: none;
+   text-align: center;
+}
+#navegador li{
+   font-size:x-large;
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+}
+a{
+   padding: 2px 7px 2px 7px;
+   color: #666;
+   background-color: #eeeeee;
+   border: 1px solid #ccc;
+   text-decoration: none;
+}
+p{
+    font-size: xx-large;
+}
+
+li{
+    font-size: x-large;
+}
+
+h2 i{
+    font-size: 20px;
+    align-self: center;
+    margin: 0 15px;
+   }
